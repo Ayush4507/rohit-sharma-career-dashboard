@@ -35,7 +35,6 @@ Data visualization design principles
 File	Description
 Rohit_Sharma_Career_Dashboard.pbix	Main Power BI report file
 Batting_Data_Sample.xlsx	Sample dataset matching the report's data model
-Cricket_Theme.json	Custom Power BI theme file
 🚀 How to Use
 Clone or download this repo
 Open the .pbix file in Power BI Desktop
